@@ -7,11 +7,17 @@ An Introduction to Interactive Programming in Python by Joe Warren, Scott Rixner
 
 The codes writen in codesklputor http://www.codeskulptor.org/,so than you can import "simplegui".
 
-
-About Guess the Number:
+=======================================
+About "Guess the Number":
 
 The first player thinks of a secret number in some known range while the second player attempts to guess the number. After each guess, the first player answers either “Higher”, “Lower” or “Correct!” depending on whether the secret number is higher, lower or equal to the guess.
 
-About Stopwatch：
+=======================================
+About "Stopwatch"：
 
 The simple digital stopwatch that keeps track of the time in tenths of a second. The stopwatch should contain "Start", "Stop" and "Reset" buttons. 
+
+=======================================
+About "Pong"
+
+Pong, one of the first arcade video games (1972). While Pong is not particularly exciting compared to today's video games, Pong is relatively simple to build and provides a nice opportunity to work on the skills.
